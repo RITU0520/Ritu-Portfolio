@@ -1,0 +1,8 @@
+# Keep resume PDFs out of GitHub
+cv/*.pdf
+
+# Ignore local configuration and secret files
+.env
+.env.*
+!.env.example
+config.local.php
