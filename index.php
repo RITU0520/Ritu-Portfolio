@@ -3,8 +3,8 @@ $pageTitle = 'Ritu — Java Full-Stack Developer & AI/XAI Researcher';
 
 $profile = [
   'name' => 'Ritu',
-  'email' => 'ritujha0520@gmail.com',
-  'phone' => '9868575203',
+  'email' => <p>Email: Available upon request</p>,
+  'phone' => <p>Phone: Available upon request</p>,
   'location' => 'New Delhi, India',
   'linkedin' => 'https://www.linkedin.com/in/jharitu24/',
   'github' => 'https://github.com/RITU0520',
